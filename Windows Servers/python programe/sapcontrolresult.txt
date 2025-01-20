@@ -1,0 +1,6 @@
+14.09.2022 05:58:04
+GetProcessList
+OK
+name, description, dispstatus, textstatus, starttime, elapsedtime, pid
+disp+work.EXE, Dispatcher, GRAY, Running, Message Server connection ok, Dialog Queue time: 0.00 sec, 2022 07 17 17:49:21, 1404:08:43, 9456
+igswd.EXE, IGS Watchdog, GREEN, Running, 2022 07 17 17:49:21, 1404:08:43, 9320

@@ -1,0 +1,5 @@
+This is R3trans version 6.24 (release 722 - 29.04.22 - 10:30:00).
+unicode enabled version
+R3trans=>sapparam(1c): No Profile used.
+R3trans=>sapparam: SAPSYSTEMNAME neither in Profile nor in Commandline
+R3trans finished (0000).
