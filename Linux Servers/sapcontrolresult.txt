@@ -1,0 +1,9 @@
+
+08.08.2023 11:34:01
+GetProcessList
+OK
+name, description, dispstatus, textstatus, starttime, elapsedtime, pid
+disp+work, Dispatcher, GREEN, Running, 2023 06 06 11:20:02, 1512:13:59, 7809
+igswd_mt, IGS Watchdog, GREEN, Running, 2023 06 06 11:20:02, 1512:13:59, 7810
+gwrd, Gateway, GREEN, Running, 2023 06 06 11:20:06, 1512:13:55, 7831
+icman, ICM, GREEN, Running, 2023 06 06 11:20:06, 1512:13:55, 7832

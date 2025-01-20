@@ -1,0 +1,3 @@
+This is R3trans version 6.26 (release 785 - 03.08.22 - 08:30:00).
+unicode enabled version
+R3trans finished (0000).
